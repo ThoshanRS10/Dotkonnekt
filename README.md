@@ -28,6 +28,7 @@ Make sure you have **Python 3.x** installed.
 
 Check your version with:
 
+```
 bash
 python --version
 
