@@ -1,0 +1,7 @@
+/* Example: Improve the look of Streamlit buttons */
+div[data-testid="stButton"] > button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
